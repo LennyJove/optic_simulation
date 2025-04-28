@@ -1,49 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.15">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="gVehfxkovYp_prCZ0jp4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVehfxkovYp_prCZ0jp4-3" target="gVehfxkovYp_prCZ0jp4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-3" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin-top: 0.5em; margin-bottom: 0.5em; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;图像预处理（读取图像、转为位相物体），设置参数&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="170" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVehfxkovYp_prCZ0jp4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-4" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin-top: 0.5em; margin-bottom: 0.5em; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;设计泽尼克滤波器。分别生成正、负相衬滤波器&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="260" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVehfxkovYp_prCZ0jp4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVehfxkovYp_prCZ0jp4-6" target="gVehfxkovYp_prCZ0jp4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVehfxkovYp_prCZ0jp4-6" value="仿真开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVehfxkovYp_prCZ0jp4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVehfxkovYp_prCZ0jp4-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-11" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin-top: 0.5em; margin-bottom: 0.5em; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;滤波，逆变换，得到滤波后的光场分布&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="350" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gVehfxkovYp_prCZ0jp4-18" target="gVehfxkovYp_prCZ0jp4-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="gVehfxkovYp_prCZ0jp4-18" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin-top: 0.5em; margin-bottom: 0.5em; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;显示三种滤波下的图像，与原图进行对比&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="159" y="440" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="gVehfxkovYp_prCZ0jp4-23" value="结束仿真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
